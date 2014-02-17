@@ -13,3 +13,19 @@ results
 
 npm-debug.log
 node_modules
+coverage.html
+
+# Created by http://gitignore.io
+
+### IntelliJ ###
+*.iml
+*.ipr
+*.iws
+.idea/
+
+logs/*
+!.gitkeep
+node_modules/
+.DS_Store
+coverage/
+lcov/
